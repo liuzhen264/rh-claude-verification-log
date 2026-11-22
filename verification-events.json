@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-21",
+  "subject": "Levent Alpoge's AI-assisted Lean proof announcement concerning the Riemann Hypothesis",
+  "canonical_log": "https://riemannhypothesisclaude.org/verification-log",
+  "current_status": {
+    "riemann_hypothesis_formal_proof": "certified_by_lean_and_mathlib_communities",
+    "mathematical_exposition": "ongoing",
+    "generalized_riemann_hypothesis_claims": "not_addressed_by_the_joint_statement"
+  },
+  "events": [
+    {
+      "date": "2026-11-20",
+      "type": "announcement",
+      "summary": "Levent Alpoge announced a claimed proof of the Riemann Hypothesis and GRH, with a Lean formalization.",
+      "source": "https://alpo.ge/remark.pdf",
+      "evidence_status": "claim"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "community_statement",
+      "summary": "The Lean and Mathlib communities expressed full confidence in the formal RH proof and certified that both the statement and proof are correct.",
+      "source": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "scope": "The statement concerns Mathlib's RiemannHypothesis; it does not address the separate GRH claims. Mathematical exposition remains ongoing.",
+      "evidence_status": "formal_rh_certified"
+    }
+  ],
+  "provenance": {
+    "maintainer_disclosure": "This snapshot and the canonical log are maintained by the site owner and are self-published.",
+    "last_source_check": "2026-11-21"
+  }
+}

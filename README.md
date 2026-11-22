@@ -4,6 +4,10 @@ This repository is a public citation index for a claim under verification. It is
 
 The canonical, continuously maintained record is [riemannhypothesisclaude.org/verification-log](https://riemannhypothesisclaude.org/verification-log). Each dated entry links to its original source and states what the evidence does and does not establish. Corrections are tracked on the site.
 
+## Machine-readable snapshot
+
+[verification-events.json](verification-events.json) is a small, dated snapshot of the announcement and the Lean/Mathlib communities' formal RH certification. It is not a live feed; use the canonical log above for later developments.
+
 ## Independent verification resources
 
 - [Andrew Sutherland (MIT): verification files](https://math.mit.edu/~drew/grh/)
